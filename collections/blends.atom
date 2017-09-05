@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.clementcoffee.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.clementcoffee.com/collections/blends.atom"/>
+  <title>Clement Coffee</title>
+  <updated>2014-04-07T21:26:49+10:00</updated>
+  <author>
+    <name>Clement Coffee</name>
+  </author>
+  <entry>
+    <id>https://www.clementcoffee.com/products/283861109</id>
+    <published>2014-04-07T21:26:49+10:00</published>
+    <updated>2014-04-07T21:26:49+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Clement Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/3485/products/GiftCard-01.png?v=1396870003" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clement Coffee<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.clementcoffee.com/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Clement Coffee Gift Card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Brew Equipment</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Grinders</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Single Estates</s:tag>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/283861109</id>
+      <title>$10.00</title>
+      <s:price currency="AUD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/283861109</id>
+      <title>$25.00</title>
+      <s:price currency="AUD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/283861109</id>
+      <title>$50.00</title>
+      <s:price currency="AUD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/283861109</id>
+      <title>$100.00</title>
+      <s:price currency="AUD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.clementcoffee.com/products/266485893</id>
+    <published>2014-03-17T10:52:00+11:00</published>
+    <updated>2014-03-17T10:52:00+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/products/pony-blend"/>
+    <title>PONY BLEND</title>
+    <s:type>coffee</s:type>
+    <s:vendor>Blend</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/3485/products/PONY_WEBCARD_NOV.jpg?v=1479422202" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Blend<br>
+        <strong>Type: </strong>coffee<br>
+        <strong>Price: </strong>
+            15.00 - 50.00
+            <a href="https://www.clementcoffee.com/products/pony-blend">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>TASTING NOTES: </strong></span>Red Apple. Grape. Caramel. Chocolate.</p>
+<p><span></span><strong style="line-height: 1.4;">BLEND:</strong></p>
+<meta charset="utf-8">
+<p class="p1"><span>100% Peru, La Copia, Cajamarca</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/266485893</id>
+      <title>250g / Beans</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/266485893</id>
+      <title>250g / Espresso</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/266485893</id>
+      <title>250g / Stovetop</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/266485893</id>
+      <title>1kg / Beans</title>
+      <s:price currency="AUD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/266485893</id>
+      <title>1kg / Espresso</title>
+      <s:price currency="AUD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/266485893</id>
+      <title>1kg / Stovetop</title>
+      <s:price currency="AUD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.clementcoffee.com/products/4172532164</id>
+    <published>2014-03-17T10:52:00+11:00</published>
+    <updated>2014-03-17T10:52:00+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/products/beaufort"/>
+    <title>Beaufort</title>
+    <s:type>coffee</s:type>
+    <s:vendor>Blend</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/3485/products/BEAUFORT_WEB_NOV_e747447f-16fa-4f9a-bfed-03dff9e63f01.jpg?v=1479422392" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Blend<br>
+        <strong>Type: </strong>coffee<br>
+        <strong>Price: </strong>
+            15.00 - 50.00
+            <a href="https://www.clementcoffee.com/products/beaufort">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>NOTES: </strong></span>BAKERS CHOCOLATE. JAMMY. BALANCED.</p>
+<h4 class="p1"><strong>BLEND:</strong></h4>
+<div class="gmail_default">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<div class="gmail_default">
+<meta charset="utf-8">
+<span>40% Brazil, Fazenda Sertãozinho</span>
+</div>
+<div class="gmail_default"><span>60% Colombia, Viota</span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/4172532164</id>
+      <title>250g / Beans</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/4172532164</id>
+      <title>250g / Espresso</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/4172532164</id>
+      <title>250g / Stovetop</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/4172532164</id>
+      <title>1kg / Beans</title>
+      <s:price currency="AUD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/4172532164</id>
+      <title>1kg / Espresso</title>
+      <s:price currency="AUD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/4172532164</id>
+      <title>1kg / Stovetop</title>
+      <s:price currency="AUD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

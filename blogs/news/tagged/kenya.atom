@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.clementcoffee.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://www.clementcoffee.com/blogs/news/tagged/kenya.atom"/>
+  <title>Clement Coffee - News</title>
+  <updated>2015-08-14T11:13:00+10:00</updated>
+  <author>
+    <name>Clement Coffee</name>
+  </author>
+  <entry>
+    <id>https://www.clementcoffee.com/blogs/news/41073476-mutheka-peaberry</id>
+    <published>2015-08-14T11:13:00+10:00</published>
+    <updated>2015-08-14T11:14:07+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/blogs/news/41073476-mutheka-peaberry"/>
+    <title>Mutheka Peaberry</title>
+    <author>
+      <name>Tayt Bale</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div style="text-align: center;"><img src="//cdn.shopify.com/s/files/1/0403/3485/files/Mutheka_Peaberry_large.jpg?15609950318395636092"></div>
+<div style="text-align: center;"></div>
+<p class="p1"><b>Mutheka Peaberry</b></p>
+<p class="p1">We are very excited to have the delicious Kenya Mutheka at Clement Coffee! </p>
+<p class="p1">The Mutheka Farmers Cooperative Society (FCS) consists of more than 5600 active farmer members, approximately 900 of which use the Kigwandi factory. The factory, which is part of the Mutheka FCS, uses hydro electric power from the Kagumo River to run its operations. Smallholder farmers delivering cherry to the Kigwandi factory have an average of 207 coffee trees each and generally farm food crops alongside their small coffee plots.</p>
+<p class="p2"> </p>
+<p class="p1">Cherries collected from the farmers in the region are bulked together and washed, fermented and laid out on raised beds to dry. The Cooperative puts a lot of focus on quality and are known for their meticulous sorting through the whole process. Although their equipment is old and in need of upgrade, they won a local competition for quality in 20003 and continue to produce exceptional coffee.</p>
+<p class="p2"> </p>
+<p class="p1">Peaberry beans are a relatively rare occurrence and can occur on any coffee variety. In most instances, a coffee cherry will contain two coffee beans, however when one of the ovules of the cherry fails to develop, the remaining bean with no second bean to provide pressure, will form into a rounded shape with no flat side. They are often separated from the rest of the harvest and sold separately, in most cases commanding a higher price.</p>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.clementcoffee.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.clementcoffee.com/collections/wholesale-1.atom"/>
+  <title>Clement Coffee</title>
+  <updated>2016-12-12T08:52:00+11:00</updated>
+  <author>
+    <name>Clement Coffee</name>
+  </author>
+  <entry>
+    <id>https://www.clementcoffee.com/products/6285620932</id>
+    <published>2016-12-12T08:52:00+11:00</published>
+    <updated>2016-12-12T08:52:00+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/products/la-pena-second-harvest-wholesale"/>
+    <title>LA PENA SECOND HARVEST - WHOLESALE</title>
+    <s:type>coffee</s:type>
+    <s:vendor>COLOMBIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/3485/products/La_Pena_2nd_Harvest.jpg?v=1481493159" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>COLOMBIA<br>
+        <strong>Type: </strong>coffee<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1"> </p>
+<p><strong>Tasting notes: </strong></p>
+<meta charset="utf-8">
+<p>BLACKBERRY JAM. GRILLED PEACH. SILKY.</p>
+<meta charset="utf-8">
+<p>COUNTRY GUATEMALA</p>
+<p>ELEVATION 1600 - 1800 MASL</p>
+<p>REGION HUEHUETENANGO</p>
+<p>PROCESSING WASHED</p>
+<p>PRODUCER PEDRO AGULIAR</p>
+<p>VARIETALS CATURRA, BOURBON &amp; PACHE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/6285620932</id>
+      <title>Filter / 1kg / Beans</title>
+      <s:price currency="AUD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/6285620932</id>
+      <title>Espresso / 1kg / Beans</title>
+      <s:price currency="AUD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.clementcoffee.com/products/4999401796</id>
+    <published>2016-12-12T08:46:00+11:00</published>
+    <updated>2016-12-12T08:46:00+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/products/la-pena-first-harvest-wholesale"/>
+    <title>LA PENA FIRST HARVEST- WHOLESALE</title>
+    <s:type>coffee</s:type>
+    <s:vendor>Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/3485/products/La_Pena_1st_Harvest_1b2fc18a-bd3b-4365-b503-7026587de5af.jpg?v=1481492756" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Guatemala<br>
+        <strong>Type: </strong>coffee<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong>TASTING NOTES: </strong></p>
+<p class="p1">ORANGE JUICE. BLACKBERRY. BUTTER.</p>
+<p class="p1">COUNTRY: GUATEMALA</p>
+<p class="p1">ELEVATION: 1600 - 1800 MASL</p>
+<p class="p1">REGION: HUEHUETENANGO</p>
+<p class="p1">PROCESSING: WASHED</p>
+<p class="p1">PRODUCER: PEDRO AGULIAR</p>
+<p class="p1">VARIETALS: CATURRA, BOURBON &amp; PACHE</p>
+<p class="p1"> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/4999401796</id>
+      <title>Filter / 1kg / Filter</title>
+      <s:price currency="AUD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/4999401796</id>
+      <title>Espresso / 1kg / Espresso</title>
+      <s:price currency="AUD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.clementcoffee.com/products/379023236</id>
+    <published>2014-11-03T13:31:00+11:00</published>
+    <updated>2014-11-03T13:31:00+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/products/wholesale-decaf"/>
+    <title>WHOLESALE - DECAF</title>
+    <s:type>coffee</s:type>
+    <s:vendor>Guatemala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/3485/products/Decafewebtile-01_2cae12ab-3458-4a03-aaaf-5ee58060fa63.png?v=1414981881" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Guatemala<br>
+        <strong>Type: </strong>coffee<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>TASTING NOTES: </span>Delicious aromas of hazelnuts and walnuts with milk chocolate flavours; especially delicious in milk!</p>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/379023236</id>
+      <title>1kg / Beans</title>
+      <s:price currency="AUD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.clementcoffee.com/products/326007081</id>
+    <published>2014-06-05T13:20:00+10:00</published>
+    <updated>2014-06-05T13:20:00+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/products/copy-of-pony-blend"/>
+    <title>WHOLESALE -  PONY BLEND</title>
+    <s:type>coffee</s:type>
+    <s:vendor>Blend</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/3485/products/PONY_WEBCARD_NOV_5813f349-0745-4884-af3b-f92099db3277.jpg?v=1479422302" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Blend<br>
+        <strong>Type: </strong>coffee<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong>TASTING NOTES: </strong></span>Red Apple. Grape. Caramel. Chocolate.</p>
+<p><span></span><strong>BLEND:</strong></p>
+<meta charset="utf-8">
+<p class="p1"><span>100% Peru, La Copia, Cajamarca</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/326007081</id>
+      <title>1kg / Beans</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.clementcoffee.com/products/4999412996</id>
+    <published>2014-06-05T13:20:00+10:00</published>
+    <updated>2014-06-05T13:20:00+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/products/copy-of-wholesale-pony-blend"/>
+    <title>Beaufort - WHOLESALE</title>
+    <s:type>coffee</s:type>
+    <s:vendor>Blend</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/3485/products/BEAUFORT_WEB_NOV.jpg?v=1479422405" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Blend<br>
+        <strong>Type: </strong>coffee<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong>NOTES: </strong></span>BAKERS CHOCOLATE. JAMMY. BALANCED.</p>
+<h4 class="p1"></h4>
+<p><strong>BLEND:</strong></p>
+<div class="gmail_default">
+<meta charset="utf-8">
+<div class="gmail_default"><span>40% Brazil, Fazenda Sertãozinho</span></div>
+<div class="gmail_default"><span>60% Colombia, Viota</span></div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://www.clementcoffee.com/products/4999412996</id>
+      <title>1kg / Beans</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

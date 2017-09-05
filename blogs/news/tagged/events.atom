@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.clementcoffee.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://www.clementcoffee.com/blogs/news/tagged/events.atom"/>
+  <title>Clement Coffee - News</title>
+  <updated>2015-08-14T11:13:00+10:00</updated>
+  <author>
+    <name>Clement Coffee</name>
+  </author>
+  <entry>
+    <id>https://www.clementcoffee.com/blogs/news/13431661-velo-pour-femme</id>
+    <published>2014-04-07T10:57:09+10:00</published>
+    <updated>2014-04-07T11:14:49+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.clementcoffee.com/blogs/news/13431661-velo-pour-femme"/>
+    <title>Velo Pour Femme</title>
+    <author>
+      <name>Jared Lawler</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div style="text-align: center;"></div>
+<div style="text-align: center;">Looking forward to the all female alley cat. Get your crew together and come join us and <a href="http://www.ponybikes.com/female-alley-cat/" target="_blank" title="more info">Pony bikes</a> on 18th of April.</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><img src="//cdn.shopify.com/s/files/1/0403/3485/files/VELO_POUR_FEMME_3d_grande.jpg?312" /></div>]]>
+    </content>
+  </entry>
+</feed>
